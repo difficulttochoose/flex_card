@@ -93,10 +93,6 @@ svg {
     width: 15px !important;
 }
 
-.tooSmallPicture > svg {
-    width: 20px !important;
-}
-
 svg > path {
     fill: red;
 }
